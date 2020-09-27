@@ -1,0 +1,33 @@
+<div class="footer">
+<div class="container">
+<div class="inner-row">
+<div class="col-sm-4 contact-us">
+<div class="head">About Us</div>
+<p>
+White Stork Shop <br>
+Unit 2, Loughborough Technology Centre <br>
+Epinal Way <br>
+Loughborough <br>
+United Kingdom <br>
+☏ +<a href="tel:+447523706094">447523706094  </a> 
+</p>
+</div>
+<div class="col-sm-1"></div>
+<div class="col-sm-3 footer-signup">
+<div class="head">Newsletter</div><!--Footer Tab-3-->
+<p>Sign up to our newsletter for special deals</p>
+<a href="https://my.ebay.co.uk/ws/eBayISAPI.dll?AcceptSavedSeller&mode=0&preference=0&ssPageName=STRK:MEFS:ADDMP&sellerid=white_stork_uk" target="_blank" title="SUBMIT">SUBMIT</a><!--Newsletter Link-->
+</div>
+<div class="col-sm-1"></div>
+<div class="col-sm-3 hidden-xs footer-promo">
+<div class="head">We Accept Only</div><!--Footer Tab-4-->
+<p><img src="https://tanilogics.com/clients/aucz487/images/payment.png" class="img-responsive"><!--Payment Banner-Footer-->
+</p>
+</div>
+<div class="clearfix"></div>
+<div class="copyrights">
+<p class="text-center">White Stork Shop UK Copyright &copy; 2020. All rights reserved.</p>
+</div>
+</div>
+</div>
+</div>
